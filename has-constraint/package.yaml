@@ -1,7 +1,5 @@
 name: has-constraint
-version: '0.1.1'
-synopsis: 
-description: ''
+version: 0.1.0
 category: Control
 author: Christian Kjaer Laustsen
 maintainer: ckl@codetalk.io
@@ -13,7 +11,6 @@ extra-source-files:
 
 dependencies:
   - base >= 4.8
-  - template-haskell >= 2.11
 
 library:
   source-dirs: src
@@ -22,7 +19,6 @@ library:
   - Rank2Types
   - FlexibleInstances
   - FlexibleContexts
-  - TemplateHaskell
 
 tests:
   test:

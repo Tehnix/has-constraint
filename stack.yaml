@@ -1,5 +1,4 @@
 resolver: lts-9.12
-flags: {}
 packages:
-- '.'
-extra-deps: []
+- ./has-constraint
+- ./has-constraint-th

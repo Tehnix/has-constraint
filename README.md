@@ -6,3 +6,23 @@ Packages:
 
 - `has-constraint` base package with the typeclass and some defualt instances
 - `has-constraint-th` template haskell code for generating instances
+
+akjsnmd
+
+
+
+lakmdl
+
+
+akjlamsd
+
+ksmd
+
+
+askdl
+
+
+
+asdkjm
+
+m
